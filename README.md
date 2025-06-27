@@ -1,3 +1,19 @@
 # Calculadora Simples em Java ➕➖✖️➗
 
-Este é um projeto de calculadora básica desenvolvido em Java, ideal para quem está começando a aprender a linguagem e seus fundamentos.
+Projeto de calculadora básica, feito em Java. Perfeito pra quem tá começando na linguagem e quer ver os fundamentos na prática.
+
+---
+
+### O que usei: 🛠️
+
+* Java
+
+---
+
+### Pra Rodar é Fácil: ▶️
+
+1.  Dá um clone nesse repositório.
+2.  Compila o `Calculadora.java` com seu compilador Java (JDK).
+3.  Depois, é só executar a classe principal!
+
+---
